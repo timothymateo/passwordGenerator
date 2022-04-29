@@ -7,7 +7,7 @@
 
 
 ## GITHUB Link: https://github.com/timothymateo/passwordGenerator
-## Website Link: [see repo]
+## Website Link: https://timothymateo.github.io/passwordGenerator/
 
 ## User Story
 
